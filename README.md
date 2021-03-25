@@ -1,2 +1,2 @@
 # Machine Learning Under The Hood.
-### Python implementation for all common ML algorithms
+### Python implementation for all common ML Algorithms
