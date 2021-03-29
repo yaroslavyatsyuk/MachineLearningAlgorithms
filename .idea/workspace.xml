@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7416cdb4-54f9-4828-a7b7-233d5bc1f097" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="6ba0a898-598d-40eb-8fbc-5c7fe02e6318" />
+  <component name="ProjectId" id="1qLkDTV8t30urpphzBhfCOP8aAX" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RegressionHelper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML-Algorithms-By-Hands" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RegressionHelper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.RegressionHelper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7416cdb4-54f9-4828-a7b7-233d5bc1f097" name="Default Changelist" comment="" />
+      <created>1616866137530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616866137530</updated>
+      <workItem from="1616866142084" duration="15878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1628" height="187" key="GridCell.Tab.0.bottom" timestamp="1616935352527">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="187" key="GridCell.Tab.0.bottom/65.-1200.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1616935352527" />
+    <state width="1628" height="187" key="GridCell.Tab.0.center" timestamp="1616935352525">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="187" key="GridCell.Tab.0.center/65.-1200.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1616935352525" />
+    <state width="1628" height="187" key="GridCell.Tab.0.left" timestamp="1616935352524">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="187" key="GridCell.Tab.0.left/65.-1200.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1616935352524" />
+    <state width="1628" height="187" key="GridCell.Tab.0.right" timestamp="1616935352526">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="187" key="GridCell.Tab.0.right/65.-1200.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1616935352526" />
+    <state x="142" y="89" key="MergeDialog" timestamp="1616964497419">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="142" y="89" key="MergeDialog/65.-1200.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1616964497419" />
+    <state x="420" y="592" width="511" height="306" key="MultipleFileMergeDialog" timestamp="1616964497448">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="420" y="592" width="511" height="306" key="MultipleFileMergeDialog/65.-1200.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1616964497448" />
+    <state x="239" y="76" key="SettingsEditor" timestamp="1616935231147">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="239" y="76" key="SettingsEditor/65.-1200.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1616935231147" />
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup" timestamp="1616964004437">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/65.-1200.1920.1200/0.0.1680.1050@0.0.1680.1050" timestamp="1616964004437" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ML_Algorithms_By_Hands$RegressionHelper.coverage" NAME="RegressionHelper Coverage Results" MODIFIED="1616932004359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
