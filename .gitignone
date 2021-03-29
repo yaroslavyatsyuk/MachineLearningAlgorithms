@@ -11,6 +11,3 @@ dist/
 *.py[cod]
 *eggs*
 *\.png
-
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
