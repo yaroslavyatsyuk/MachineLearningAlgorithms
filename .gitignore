@@ -2,6 +2,7 @@
 *.iws
 *.iml
 *.ipr
+*.idea/
 
 \.DS_STORE
 build/
@@ -11,3 +12,6 @@ dist/
 *.py[cod]
 *eggs*
 *\.png
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+.ipynb_checkpoints/*
